@@ -13,3 +13,6 @@ Use case -
 2. Some configuration has beed changed by user for client(name - App1)
 3. Changed Configuration can loaded in App1 without restarting the app by refreshing the Scope(@RefreshScope) of applicaiton. (refresh it through postman).
 4. After refreshing chenges made in "App1.properties" will reflect in application. 
+
+<img width="763" alt="untitled1" src="https://user-images.githubusercontent.com/16852338/31226763-01a9bd6e-a9f5-11e7-9151-2137f2806617.png">
+
